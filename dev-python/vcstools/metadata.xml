@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+<maintainer>
+	<email>mavrinac@gmail.com</email>
+	<name>Aaron Mavrinac</name>
+</maintainer>
+<use>
+	<flag name="bazaar">Enable support for dev-vcs/bzr</flag>
+	<flag name="git">Enable support for dev-vcs/git</flag>
+	<flag name="mercurial">Enable support for dev-vcs/mercurial</flag>
+</use>
+</pkgmetadata>
