@@ -8,7 +8,8 @@ inherit eutils autotools versionator fdo-mime
 
 DESCRIPTION="C++ user interface toolkit for X and OpenGL"
 HOMEPAGE="http://www.fltk.org/"
-SRC_URI="mirror://easysw/${PN}/${PV}/${P}-source.tar.bz2"
+#SRC_URI="mirror://easysw/${PN}/${PV}/${P}-source.tar.bz2"
+SRC_URI="http://www.fltk.org/software.php?VERSION=1.3.2&FILE=${PN}/${PV}/${P}-source.tar.gz"
 
 LICENSE="FLTK LGPL-2"
 SLOT="1"
