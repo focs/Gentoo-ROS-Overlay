@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+        <repo priority="50" quality="experimental" status="unofficial">
+                <name>ros-focs</name>
+                <description>overlay used to install ROS</description>
+                <homepage>https://github.com/focs/Gentoo-ROS-Overlay</homepage>
+                <owner>
+                        <email>halfsocialfox@gmail.com</email>
+                </owner>
+                <source type="git">https://github.com/focs/Gentoo-ROS-Overlay.git</source>
+        </repo>
+</repositories>
+
