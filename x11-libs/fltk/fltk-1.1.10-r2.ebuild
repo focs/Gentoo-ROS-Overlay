@@ -10,7 +10,8 @@ DESCRIPTION="C++ user interface toolkit for X and OpenGL"
 HOMEPAGE="http://www.fltk.org/"
 #SRC_URI="mirror://easysw/${PN}/${PV}/${P}-source.tar.bz2"
 #http://fltk.org/pub/fltk/1.1.10/fltk-1.1.10-source.tar.gz
-SRC_URI="http://fltk.org/pub/${PN}/${PV}/${P}-source.tar.gz"
+SRC_URI="http://fltk.org/pub/fltk/1.1.10/fltk-1.1.10-source.tar.gz"
+
 
 LICENSE="FLTK LGPL-2"
 SLOT="1"
