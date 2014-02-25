@@ -17,6 +17,7 @@ KEYWORDS="amd64 x86"
 IUSE=""
 
 DEPEND="dev-python/setuptools
+		dev-python/python-dateutil
 		dev-python/vcstools"
 RDEPEND="${DEPEND}"
 
